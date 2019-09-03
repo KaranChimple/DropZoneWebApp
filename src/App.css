@@ -31,3 +31,10 @@
     transform: rotate(360deg);
   }
 }
+
+.FileUpload {
+  align-items: center;
+  justify-content: center;
+  background-color: red;
+  padding: 20px
+}
